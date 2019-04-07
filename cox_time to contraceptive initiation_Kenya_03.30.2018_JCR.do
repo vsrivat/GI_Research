@@ -10,7 +10,7 @@ log using "Kenya_cph_log file_03312019", replace
 
 **making changes
 
-** applying GitHub
+** applying GitHub with OLIVIER
 
 *****Analysis plan********
 
