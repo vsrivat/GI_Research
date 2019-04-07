@@ -9,6 +9,8 @@ cap cd "/Users/varshasrivatsan/Dropbox (Gates Institute)/Paper_Sexual debut and 
 *log using "Kenya_cph_log file_survival analysis_2", replace
 log using "Kenya_cph_log file_$date", replace
 
+**making changes 
+
 *****Analysis plan********
 
 * Part 0. Data management
