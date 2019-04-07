@@ -4,9 +4,10 @@ capture log close
 set scheme s1color
 
 *cd "/Users/jeanchristopherusatira/Dropbox (Gates Institute)/Capstone/Kenya"
-cd "/Users/jeanchristopherusatira/Dropbox (Gates Institute)/Kenya"
+cap cd "/Users/jeanchristopherusatira/Dropbox (Gates Institute)/Kenya"
+cap cd "/Users/varshasrivatsan/Dropbox (Gates Institute)/Paper_Sexual debut and contraception"
 *log using "Kenya_cph_log file_survival analysis_2", replace
-log using "Kenya_cph_log file_03312019", replace
+log using "Kenya_cph_log file_$date", replace
 
 *****Analysis plan********
 
